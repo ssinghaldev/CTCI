@@ -1,0 +1,24 @@
+1.1 IsUnique
+  - Not coding
+  - Can be solved using hash-tables
+  - without using hash-tables, one can do it in O(n^2)
+  - without using hash-tables, one can do it in O(nlgn) after sorting
+
+1.2 Check Permutation
+  - Not coding
+  - maintain 2 hashes for 2 strings which has count of words
+  - go over one hash, decrease the count in other. If 0 remove
+  - see other is empty
+  - little bit more efficient, one can have only one hash and do the same
+ 
+1.3 URlify
+  - Go from the back and place the chars
+  - when encountered ' ', insert required chars
+
+1.4 Palindrome Permutation
+  - Count char count
+  - if num odd char > 1, its not a palindrome
+
+1.5 One Away
+  - Done coding
+  - two different cases, same len, different len
