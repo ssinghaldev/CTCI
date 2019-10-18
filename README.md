@@ -1,0 +1,3 @@
+- Solutions to problems from CTCI book.
+- Additionally, implementing some DS/Algo from scratch.
+- Also will have some notes on what I learned
