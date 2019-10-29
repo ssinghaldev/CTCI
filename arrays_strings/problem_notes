@@ -22,3 +22,28 @@
 1.5 One Away
   - Done coding
   - two different cases, same len, different len
+
+1.6 String Compression
+  - Done coding
+
+1.7 Rotate Matrix
+  - Done Coding
+  - Obviously can do with extra space
+  - Can also without needing extra space but different method
+    - Transposing
+    - then reversing each row I guess for this!
+  - Saw the solution and coded it
+
+1.8 Zero Matrix
+  - Done Coding
+  - Corner Case when only 1st row or col is zero
+    - This arises when u store whether row/col to be set to zero in its first
+      element
+
+1.9 String Rotation
+  - Done Coding
+  - My idea was to find break point
+    - But with duplicate chars it will be a problem
+    - So saw the hint and got an awesome technique of appending the string
+      itself to it and then checking substring. Its awesome :-)
+
